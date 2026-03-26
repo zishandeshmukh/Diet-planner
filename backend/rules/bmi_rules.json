@@ -1,0 +1,8 @@
+{
+  "underweight": { "max": 18.4, "label": "Underweight" },
+  "normal": { "min": 18.5, "max": 24.9, "label": "Normal" },
+  "overweight": { "min": 25.0, "max": 29.9, "label": "Overweight" },
+  "obese_class_1": { "min": 30.0, "max": 34.9, "label": "Obese Class I" },
+  "obese_class_2": { "min": 35.0, "max": 39.9, "label": "Obese Class II" },
+  "obese_class_3": { "min": 40.0, "label": "Obese Class III" }
+}

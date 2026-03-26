@@ -1,0 +1,22 @@
+{
+  "Underweight": {
+    "focus": "Muscle Building",
+    "intensity": "Low to Moderate",
+    "duration_min": 30
+  },
+  "Normal": {
+    "focus": "Balanced Training",
+    "intensity": "Moderate",
+    "duration_min": 40
+  },
+  "Overweight": {
+    "focus": "Fat Loss",
+    "intensity": "Low Impact Cardio",
+    "duration_min": 35
+  },
+  "Obese Class I": {
+    "focus": "Mobility + Walking",
+    "intensity": "Very Low Impact",
+    "duration_min": 25
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "base_ml_per_kg": 35,
+  "activity_bonus_ml": {
+    "light": 300,
+    "moderate": 500,
+    "active": 700,
+    "very_active": 1000
+  }
+}

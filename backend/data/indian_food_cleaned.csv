@@ -1,0 +1,11 @@
+food_name,category,calories_per_100g,protein_g,carbs_g,fat_g
+roti,grain,297,9.8,55,1.7
+white_rice,grain,130,2.4,28,0.3
+brown_rice,grain,111,2.6,23,0.9
+dal_tadka,dal,116,6.2,15,3.5
+paneer,dairy,265,18.3,1.2,20.8
+milk,dairy,60,3.2,5,3.3
+egg,protein,155,13,1.1,11
+chicken_breast,protein,165,31,0,3.6
+potato,sabzi,77,2,17,0.1
+banana,fruit,89,1.1,23,0.3

@@ -1,0 +1,16 @@
+{
+  "male": {
+    "essential": { "max": 5, "label": "Essential Fat" },
+    "athlete": { "min": 6, "max": 13, "label": "Athlete" },
+    "fitness": { "min": 14, "max": 17, "label": "Fitness" },
+    "average": { "min": 18, "max": 24, "label": "Average" },
+    "obese": { "min": 25, "label": "Obese" }
+  },
+  "female": {
+    "essential": { "max": 13, "label": "Essential Fat" },
+    "athlete": { "min": 14, "max": 20, "label": "Athlete" },
+    "fitness": { "min": 21, "max": 24, "label": "Fitness" },
+    "average": { "min": 25, "max": 31, "label": "Average" },
+    "obese": { "min": 32, "label": "Obese" }
+  }
+}
