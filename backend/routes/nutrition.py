@@ -1,6 +1,6 @@
 from fastapi import APIRouter, Depends
 from sqlalchemy.orm import Session
-from database import SessionLocal
+from database import get_db
 
 # 🔹 Services
 from services.calorie_service import calculate_calories
@@ -15,15 +15,6 @@ from services.workout_service import get_workout_recommendation
 from services.tips_service import get_daily_tip
 
 router = APIRouter()
-
-
-# 🔹 DB Dependency
-def get_db():
-    db = SessionLocal()
-    try:
-        yield db
-    finally:
-        db.close()
 
 
 # 🔥 1. CALORIES
